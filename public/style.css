@@ -33,6 +33,10 @@ a.my-navbar-item:hover {
 	color: #ffffff;
 }
 
+.table th {
+	white-space: nowrap;
+}
+
 .table td:nth-child(2),
 .table td:nth-child(3),
 .table td:nth-child(4) {
